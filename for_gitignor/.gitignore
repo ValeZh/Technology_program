@@ -1,0 +1,5 @@
+for_gitignor/tray/trash/
+for_gitignor/tray/*.txt
+!for_gitignor/tray/for_translate.txt
+for_gitignor/garbage123.txt
+for_gitignor/*.pub
